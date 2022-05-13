@@ -1,0 +1,20 @@
+{
+  "name": "randomizador-do-loona",
+  "version": "0.1.0",
+  "description": "Randomizador de MV's do grupo de k-pop LOONA.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greedthestampede/Loonamizer.git"
+  },
+  "keywords": [],
+  "author": "greedthestampede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greedthestampede/Loonamizer/issues"
+  },
+  "homepage": "https://github.com/greedthestampede/Loonamizer#readme"
+}
