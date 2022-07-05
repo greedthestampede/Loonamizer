@@ -4,14 +4,21 @@ body {
   align-items: center;
   text-align: justify;
   padding: 20%;
-  padding-top: 2%;
-  height: 585px;
+  padding-top: 8%;
   margin: 0;
   background-color: black;
+  background-image: url("../img/background.jpg");
+  background-position: bottom 100px right -100px;
+  background-repeat: no-repeat;
 }
 
 h1 {
     color: azure;
+}
+
+#player {
+    height: 360px;
+    width: 640px;
 }
 
 p {
